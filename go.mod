@@ -1,3 +1,3 @@
-module github.com/plutowu/go-bus
+module github.com/manhere/go-bus
 
-go 1.19
+go 1.24
